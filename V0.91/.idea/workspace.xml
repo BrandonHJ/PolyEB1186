@@ -37,7 +37,7 @@
     <file path="/chaise_lounges.php" changelist="3e849d87-1742-4a99-9df5-0d287f2ced12" time="1392411077678" ignored="false" />
     <file path="/windmills_and_lighthouses.php" changelist="3e849d87-1742-4a99-9df5-0d287f2ced12" time="1392233847542" ignored="false" />
     <file path="/wishing_wells.php" changelist="3e849d87-1742-4a99-9df5-0d287f2ced12" time="1392233856743" ignored="false" />
-    <file path="/PolyoutdoorConfig.class.php" changelist="3e849d87-1742-4a99-9df5-0d287f2ced12" time="1393279112123" ignored="false" />
+    <file path="/PolyoutdoorConfig.class.php" changelist="3e849d87-1742-4a99-9df5-0d287f2ced12" time="1393281806068" ignored="false" />
     <file path="/PolyoutdoorObjects.php" changelist="3e849d87-1742-4a99-9df5-0d287f2ced12" time="1392416598929" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="3e849d87-1742-4a99-9df5-0d287f2ced12" time="1392675291415" ignored="false" />
     <file path="$PROJECT_DIR$/../../../FireproofFollowUp/connections/connect.php" changelist="3e849d87-1742-4a99-9df5-0d287f2ced12" time="1392674634704" ignored="false" />
@@ -69,7 +69,7 @@
       <file leaf-file-name="step3.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/step3.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="30" selection-start="357" selection-end="357" vertical-scroll-proportion="-13.125">
+            <state line="21" column="30" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -87,7 +87,7 @@
       <file leaf-file-name="step2.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/step2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -96,7 +96,7 @@
       <file leaf-file-name="accent_tables.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/products/accent_tables.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="17" selection-start="112" selection-end="129" vertical-scroll-proportion="-1.875">
+            <state line="3" column="17" selection-start="112" selection-end="129" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -105,16 +105,7 @@
       <file leaf-file-name="PolyoutdoorObjects.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PolyoutdoorObjects.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="124" selection-start="549" selection-end="549" vertical-scroll-proportion="-4.375">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PolyoutdoorConfig.class.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PolyoutdoorConfig.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="104" selection-start="669" selection-end="669" vertical-scroll-proportion="0.15759312">
+            <state line="7" column="124" selection-start="549" selection-end="549" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -123,7 +114,7 @@
       <file leaf-file-name="createproduct.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/createproduct.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="68" selection-start="2272" selection-end="2272" vertical-scroll-proportion="-30.625">
+            <state line="49" column="68" selection-start="2272" selection-end="2272" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -132,16 +123,7 @@
       <file leaf-file-name="models.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="5" selection-start="930" selection-end="930" vertical-scroll-proportion="34.541668">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="connect.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/connect.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="22" column="5" selection-start="930" selection-end="930" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -150,7 +132,25 @@
       <file leaf-file-name="process-createproduct.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/process-createproduct.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="0" selection-start="3154" selection-end="3154" vertical-scroll-proportion="-27.5">
+            <state line="83" column="0" selection-start="3154" selection-end="3154" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PolyoutdoorConfig.class.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PolyoutdoorConfig.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="8" selection-start="1018" selection-end="1018" vertical-scroll-proportion="0.37102473">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="timer.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/timer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -259,7 +259,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="preferences.sourceCode" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../FireproofFollowUp" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
@@ -334,19 +334,19 @@
     <frame x="11" y="22" width="1478" height="1327" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0719603" sideWeight="0.99860334" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10265363" sideWeight="0.9280397" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1892458" sideWeight="0.9280397" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1920391" sideWeight="0.9280397" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0719603" sideWeight="0.99860334" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -416,11 +416,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/products/porch_swings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="937" selection-end="937" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/products/rocking_chairs.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="27" selection-start="1575" selection-end="1575" vertical-scroll-proportion="0.0" />
@@ -433,23 +428,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/products/stationary_and_folding_chairs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="27" selection-start="2045" selection-end="2045" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="30" column="27" selection-start="2045" selection-end="2045" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/products/windmills_and_lighthouses.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="27" selection-start="527" selection-end="527" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="6" column="27" selection-start="527" selection-end="527" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/products/wishing_wells.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="27" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="4" column="27" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/connect.php">
@@ -475,49 +464,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/step3.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="30" selection-start="357" selection-end="357" vertical-scroll-proportion="-13.125">
+        <state line="21" column="30" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/models.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="5" selection-start="930" selection-end="930" vertical-scroll-proportion="34.541668">
+        <state line="22" column="5" selection-start="930" selection-end="930" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/createproduct.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="68" selection-start="2272" selection-end="2272" vertical-scroll-proportion="-30.625">
+        <state line="49" column="68" selection-start="2272" selection-end="2272" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/process-createproduct.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="0" selection-start="3154" selection-end="3154" vertical-scroll-proportion="-27.5">
+        <state line="83" column="0" selection-start="3154" selection-end="3154" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/products/accent_tables.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="17" selection-start="112" selection-end="129" vertical-scroll-proportion="-1.875">
+        <state line="3" column="17" selection-start="112" selection-end="129" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PolyoutdoorObjects.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="124" selection-start="549" selection-end="549" vertical-scroll-proportion="-4.375">
+        <state line="7" column="124" selection-start="549" selection-end="549" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PolyoutdoorConfig.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="104" selection-start="669" selection-end="669" vertical-scroll-proportion="0.15759312">
+        <state line="28" column="8" selection-start="1018" selection-end="1018" vertical-scroll-proportion="0.37102473">
           <folding />
         </state>
       </provider>

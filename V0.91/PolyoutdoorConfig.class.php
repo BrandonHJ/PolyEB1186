@@ -14,17 +14,18 @@ class PolyoutdoorConfig
 	 
 	
 
-	public function __construct($category, $subcategory, $product, $title, $image, $specs, $description, $price = 228)
+	public function __construct($title, $cat1, $cat2, $image, $specs, $sku, $price, $colors)
 	//constructor
 	{
-		$this->category = $category;
-		$this->subcategory = $subcategory;
-		$this->product = $product;
-		$this->image = $image;
-		$this->title = $title;
-		$this->specs = $specs;
-		$this->description = $description;
+        $this->title = $title;
+        $this->cat1 = $cat1;
+		$this->cat2 = $cat2;
+        $this->image = $image;
+        $this->specs = $specs;
+        $this->sku = $sku;
         $this->price = $price;
+		$this->colors = $colors;
+
 		
 	}
 
