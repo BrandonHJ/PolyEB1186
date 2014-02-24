@@ -1,0 +1,35 @@
+form { font-size:18px;}
+
+.err
+{
+	font-family : Verdana, Helvetica, sans-serif;
+	font-size : 12px;
+	color: red;
+}
+.error_strings{ font-family:Verdana; font-size:14px; color:#660000; background-color:#ff0;}
+
+.wrapper {position: relative;
+top: 20%;
+left: 50%;
+margin-top: -50px;
+margin-left: -50px;
+/*width: 100px;*/
+height: 100px;}
+
+.logo { width:250px;}
+
+.learnmore { font-size: 12px; text-decoration:none;}
+
+.category-name {text-transform: capitalize;}
+
+.submit-button {width: 150px;
+    height: 50px;
+    font-size: 26px;
+    background-color: #39b54a;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;}
+
+.submit-button:hover {
+    background-color: #006738;
+}
